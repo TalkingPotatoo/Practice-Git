@@ -1,9 +1,3 @@
 ### practice
 
-push
-
-pull
-
-fork
-
-clone
+pull request?
